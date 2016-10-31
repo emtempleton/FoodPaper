@@ -23,7 +23,7 @@ require(dplyr)
 
 ##########..........................................................#########
 
-# Name directories and files
+# Name directories and files, edit to point to local directory
 root_dir = '~/Dropbox/FoodStudyAnalysis'
 data_dir = sprintf('%s/R_Analysis', root_dir)
 all_sub_behav_file = sprintf('%s/peersHigherRepeated.csv', data_dir)
