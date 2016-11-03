@@ -10,4 +10,4 @@ Moderation analyses were run in SAS
 
 All other analyses were run in SPSS
   foodData.sps or foodData.csv have all reported outcome variables
-  foodData.sav is the syntax file
+  foodData.sav is the syntax file 
